@@ -4,7 +4,7 @@ import java.util.Scanner;
  * 1. 문자 찾기
  * Q.한 개의 문자열을 입력받고, 특정 문자를 입력받아 해당 특정문자가 입력받은 문자열에 몇 개 존재하는지 알아내는 프로그램을 작성하세요.
  */
-public class no1 {
+public class No1 {
 
     public static void main(String[] args){
 
